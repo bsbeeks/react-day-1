@@ -1,4 +1,4 @@
-module.exports = "Hello World!";
+console.log('Hello World!');
 
 //////////////////////////////////////
 /// WEBPACK
