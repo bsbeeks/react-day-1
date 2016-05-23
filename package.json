@@ -1,0 +1,30 @@
+{
+  "name": "react-day-1",
+  "version": "1.0.0",
+  "description": "First day of 3-day intro into ReactJS. Start in App.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsbeeks/react-day-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsbeeks/react-day-1/issues"
+  },
+  "homepage": "https://github.com/bsbeeks/react-day-1#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0"
+  }
+}
